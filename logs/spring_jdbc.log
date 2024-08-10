@@ -1,0 +1,24 @@
+2024-08-10 21:13:01 - Starting SpringJdbcApplication using Java 21.0.4 with PID 69445 (/home/saichethan/Downloads/SpringJDBC/target/classes started by saichethan in /home/saichethan/Downloads/SpringJDBC)
+2024-08-10 21:13:01 - No active profile set, falling back to 1 default profile: "default"
+2024-08-10 21:13:02 - HikariPool-1 - Starting...
+2024-08-10 21:13:02 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@42c28305
+2024-08-10 21:13:02 - HikariPool-1 - Start completed.
+2024-08-10 21:13:02 - Started SpringJdbcApplication in 1.24 seconds (process running for 1.503)
+2024-08-10 21:13:02 - HikariPool-1 - Shutdown initiated...
+2024-08-10 21:13:02 - HikariPool-1 - Shutdown completed.
+2024-08-10 21:13:52 - Starting SpringJdbcApplication using Java 21.0.4 with PID 69864 (/home/saichethan/Downloads/SpringJDBC/target/classes started by saichethan in /home/saichethan/Downloads/SpringJDBC)
+2024-08-10 21:13:52 - No active profile set, falling back to 1 default profile: "default"
+2024-08-10 21:13:53 - HikariPool-1 - Starting...
+2024-08-10 21:13:53 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1de0a46c
+2024-08-10 21:13:53 - HikariPool-1 - Start completed.
+2024-08-10 21:13:53 - Started SpringJdbcApplication in 1.186 seconds (process running for 1.446)
+2024-08-10 21:13:53 - HikariPool-1 - Shutdown initiated...
+2024-08-10 21:13:53 - HikariPool-1 - Shutdown completed.
+2024-08-10 21:28:32 - Starting SpringJdbcApplication using Java 21.0.4 with PID 76646 (/home/saichethan/Downloads/SpringJDBC/target/classes started by saichethan in /home/saichethan/Downloads/SpringJDBC)
+2024-08-10 21:28:32 - No active profile set, falling back to 1 default profile: "default"
+2024-08-10 21:28:33 - HikariPool-1 - Starting...
+2024-08-10 21:28:33 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5e8cda75
+2024-08-10 21:28:33 - HikariPool-1 - Start completed.
+2024-08-10 21:28:33 - Started SpringJdbcApplication in 1.242 seconds (process running for 1.505)
+2024-08-10 21:28:33 - HikariPool-1 - Shutdown initiated...
+2024-08-10 21:28:33 - HikariPool-1 - Shutdown completed.
